@@ -1,0 +1,34 @@
+Corrente de pico: 2,5A
+Corrente Total de pico: 2,5*2=5A
+
+Corrente nominal: 1,2A
+Corrente Total nominal: 1,2*2=2,4A
+
+Calculo corrente de Pico: 5*45/60*0,3
+Calculo de corrente Nominal: 2,4*45/60*0,7
+
+2,25AH  		.1,35AH
+2,52AH		.1,512AH
+4,77AH		.
+4770MAH		.
+
+
+
+2 Servos motores // 2 portas digitais PWM
+4 Sensores Ultrassonicos // 8 portas digitais 
+2 Sensores Seguidor de Linhas // 2 portas digitais
+1 Botão 
+
+Botão: 12;
+Sevo Motor Direita: 10;
+Servo motor Esquerda:11;
+Trig do Sensor ultrassonico Frente: A0;
+echo do Sensor ultrassonico Frente: A1;
+Trig do Sensor ultrassonico Direita: A2;
+echo do Sensor ultrassonico Direita: A3;
+Trig do Sensor ultrassonico Esquerda: A4;
+echo do Sensor ultrassonico Esquerda: A5;
+Trig do Sensor ultrassonico Tras: 6;
+echo do Sensor ultrassonico Tras: 7;
+Sensor de Linha Frente: 2;
+Sensor de Linha Tras: 3;
